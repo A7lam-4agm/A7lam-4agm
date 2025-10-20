@@ -61,7 +61,7 @@ Currently collaborating with **Maham Company** on research, implementation, and 
 
 ### 📫 Let’s Connect
 📧 [aabumismar@hawk.illinoistech.edu](mailto:aabumismar@hawk.illinistecht.edu)  
-🔗 [LinkedIn](https://linkedin.com/in/ahlam-abumismar)  
+🔗 [LinkedIn]([https://linkedin.com/in/ahlam-abumismar](https://www.linkedin.com/in/ahlam-abu-mismar-a98681251/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BhXHA1C1eQgyqC6H6t0K%2FYg%3D%3D)
 🧾 [Portfolio (Bold.pro)](https://bold.pro/my/ahlam-abumismar-251017125212)
 
 ---
