@@ -1,8 +1,8 @@
-# Hi there, I’m Ahlam 👋  
+# Hi there, I’m Ahlam Abu Mismar 👋  
 
 🎓 **Co-terminal B.S./M.S. Student in Artificial Intelligence** @ *Illinois Institute of Technology (IIT)*  
 💼 **AI & Entrepreneurship Enthusiast | Project Leader | Research Representative**  
-📍 **Chicago, IL** | Open to **Summer 2026 AI/ML or Innovation Internships**
+📍 **Chicago, IL** |
 
 ---
 
