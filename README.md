@@ -33,6 +33,16 @@ Explores decentralized model training and privacy-preserving AI.
 Designed and built the **database architecture** for a personalized skincare subscription system.  
 Currently collaborating with **Maham Company** on research, implementation, and user experience development.
 
+🔹[**📊 Stock Price Prediction**] (Group Project)
+**Course:** Machine Learning (CS 548)  
+**Team Project with (https://github.com/nick-allison)**  
+Developed a predictive model for future stock prices using LSTM and external news sentiment data.  
+- Implemented time-series forecasting with **LSTM** and integrated **news sentiment analysis**.  
+- Used **Python, TensorFlow, Keras**, and financial APIs for data collection and training.  
+- Achieved improved prediction accuracy over baseline models.  
+🔗 [View Repository →](https://github.com/A7lam-4agm/LSTM-Stock-Predictor)
+
+
 ---
 
 ### 🏅 Leadership & Involvement
