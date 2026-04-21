@@ -78,4 +78,3 @@ Analyzed class imbalance (84.4% vs 15.6%) and evaluated model performance using 
 
 ---
 
-> *“I’m passionate about merging AI, innovation, and entrepreneurship to design technology that creates real human value.”* ✨
