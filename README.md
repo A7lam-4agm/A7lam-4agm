@@ -42,7 +42,15 @@ Developed a predictive model for future stock prices using LSTM and external new
 - Achieved improved prediction accuracy over baseline models.  
 🔗 [View Repository →](https://github.com/A7lam-4agm/LSTM-Stock-Predictor)
 
+🔷 [Amazon Reviews Sentiment Analysis](https://github.com/A7lam-4agm/CS481--amazon-reviews-sentiment-analysis) 
 
+Built a sentiment analysis engine from scratch to classify Amazon reviews as POSITIVE or NEGATIVE using Naïve Bayes and kNN.
+
+• Implemented full ML pipeline: preprocessing, vocabulary building, and Bag-of-Words vectorization  
+• Developed Naïve Bayes with Laplace smoothing and kNN with Euclidean distance  
+• Analyzed class imbalance (84.4% vs 15.6%) and its impact on model performance  
+• Evaluated models using accuracy, specificity, confusion matrix, and ROC curves  
+🔗 View Repository →
 ---
 
 ### 🏅 Leadership & Involvement
