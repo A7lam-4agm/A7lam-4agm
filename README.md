@@ -33,24 +33,18 @@ Explores decentralized model training and privacy-preserving AI.
 Designed and built the **database architecture** for a personalized skincare subscription system.  
 Currently collaborating with **Maham Company** on research, implementation, and user experience development.
 
-🔹[**📊 Stock Price Prediction**] (Group Project)
-**Course:** Machine Learning (CS 548)  
-**Team Project with (https://github.com/nick-allison)**  
+🔷 [**📊 Stock Price Prediction**](https://github.com/nick-allison) (Group Project, CS 548)
+
 Developed a predictive model for future stock prices using LSTM and external news sentiment data.  
-- Implemented time-series forecasting with **LSTM** and integrated **news sentiment analysis**.  
-- Used **Python, TensorFlow, Keras**, and financial APIs for data collection and training.  
-- Achieved improved prediction accuracy over baseline models.  
-🔗 [View Repository →](https://github.com/A7lam-4agm/LSTM-Stock-Predictor)
+Integrated time-series forecasting with sentiment analysis to improve prediction accuracy.  
+Utilized Python, TensorFlow, and financial APIs for data collection, training, and evaluation.
 
-🔷 [Amazon Reviews Sentiment Analysis](https://github.com/A7lam-4agm/CS481--amazon-reviews-sentiment-analysis) 
+🔷 [**Amazon Reviews Sentiment Analysis**](https://github.com/A7lam-4agm/CS481--amazon-reviews-sentiment-analysis)
 
-Built a sentiment analysis engine from scratch to classify Amazon reviews as POSITIVE or NEGATIVE using Naïve Bayes and kNN.
+Built a sentiment analysis engine from scratch to classify Amazon reviews as POSITIVE or NEGATIVE using Naïve Bayes and kNN.  
+Implemented a full machine learning pipeline including preprocessing, vocabulary construction, and Bag-of-Words vectorization.  
+Analyzed class imbalance (84.4% vs 15.6%) and evaluated model performance using accuracy, specificity, confusion matrix, and ROC curves.
 
-• Implemented full ML pipeline: preprocessing, vocabulary building, and Bag-of-Words vectorization  
-• Developed Naïve Bayes with Laplace smoothing and kNN with Euclidean distance  
-• Analyzed class imbalance (84.4% vs 15.6%) and its impact on model performance  
-• Evaluated models using accuracy, specificity, confusion matrix, and ROC curves  
-🔗 View Repository →
 ---
 
 ### 🏅 Leadership & Involvement
